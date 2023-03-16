@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+}
+.thing{
+    width: 100%;
+    
+}
+#dywan{
+    width: 100%;
+    position: fixed ;
+    bottom: 0;
+text-align: center;
+color: white;
+background-color: gray;
+line-height: 30px;
+}
+canvas{
+    border: 5px solid white ;
+    margin-top:80px;
+}
